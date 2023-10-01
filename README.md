@@ -1,2 +1,2 @@
 # Calculator
-Demo: https://khush-simform.github.io/Calculator/
+Demo: https://khush-patel.github.io/Calculator-JS/
